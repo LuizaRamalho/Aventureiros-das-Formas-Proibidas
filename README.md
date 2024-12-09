@@ -1,7 +1,4 @@
-Claro! Aqui está o conteúdo do README em formato de código Markdown:
-
-```markdown
-# Aventura Geométrica
+## Aventura Geométrica
 
 Bem-vindo ao projeto **Aventura Geométrica**! Este projeto tem como objetivo explorar diferentes formas geométricas e calcular suas áreas de maneira interativa.
 
